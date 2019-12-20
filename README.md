@@ -28,3 +28,6 @@ https://akinmyrza.github.io/Akinmyrza/
 * My navbar
 ![image](https://user-images.githubusercontent.com/45089065/71240202-ba59b680-2332-11ea-99cd-2507e7cd90b9.png)
 
+###########################################
+* About Section
+![image](https://user-images.githubusercontent.com/45089065/71240288-effe9f80-2332-11ea-9154-d319ce27d9d4.png)
