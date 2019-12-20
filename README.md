@@ -16,13 +16,10 @@ https://akinmyrza.github.io/Akinmyrza/
 
 #In CSS part all code clear and easy to read 
 
-#I think My teacher like it this project
-
-
-#############################################
 
 ############################################
-* My navbar
+* My navbar and menu
+![Снимок экрана (15)](https://user-images.githubusercontent.com/45089065/71249827-3dd1d280-2348-11ea-9b3c-af5afe5a158b.png)
 
 
 ###########################################
