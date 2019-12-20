@@ -3,7 +3,6 @@
 ###
 https://akinmyrza.github.io/Akinmyrza/
 
-# blog
 
 #Polygon Bookstore Project 
 
