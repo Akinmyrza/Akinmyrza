@@ -29,4 +29,7 @@ https://akinmyrza.github.io/Akinmyrza/
 
 ##########################################
 * contact Section
+![Снимок экрана (16)](https://user-images.githubusercontent.com/45089065/71249904-75d91580-2348-11ea-90cd-4800c03e4d42.png)
 
+###########################################
+* footer
