@@ -27,6 +27,7 @@ https://akinmyrza.github.io/Akinmyrza/
 
 ###########################################
 * About Section
+![Снимок экрана (14)](https://user-images.githubusercontent.com/45089065/71249386-3bbb4400-2347-11ea-98d4-0ef7ab77fc72.png)
 
 
 ##########################################
